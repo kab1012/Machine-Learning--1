@@ -1,0 +1,1 @@
+This folder contains the deep learning projects using CNN, RNN, ANN, and may others.
