@@ -48,7 +48,7 @@ Output:
 ## Citing
 
 ```
-@misc{Abhinav:2020,
+@misc{Kunal:2020,
   Author = {Kunal Bambardekar},
   Title = {Machine-Learning-Deployment-Flask},
   Year = {2019},
@@ -60,11 +60,10 @@ Output:
 
 ## Contacts
 
-If you want to keep updated with my latest articles and projects follow me on Medium. These are some of my contacts details:
+These are some of my contacts details:
 
-1. [Personal Website](https://abhinavsagar.github.io/)
-2. [Linkedin](https://in.linkedin.com/in/kunalbambardekar)
-3. [GitHub](https://github.com/abhinavsagar)
+1. [Linkedin](https://in.linkedin.com/in/kunalbambardekar)
+2. [GitHub](https://github.com/kab1012)
 
 ## License
 
