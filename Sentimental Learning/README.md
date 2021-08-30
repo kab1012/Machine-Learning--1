@@ -2,7 +2,7 @@
 
 This is the notebook for the salary prediction brackets using the Kaggle 2018 DS and ML Challenge. The dataset used for the following project was used from the Kaggle website.
 
-Tell a Data Story about a Subset of sentiments from the Canadian 2015 Federal Elections
+Tell a Data Story about a Subset of sentiments from the Canadian 2019 Federal Elections
 
 Through the project, I did the following:
 
